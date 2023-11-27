@@ -46,6 +46,3 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
