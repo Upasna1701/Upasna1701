@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Upasna Ratani and I'm a frontend Web developer</h2>
 
 ###
+<h2 align="left">About me</h2>
+
+<p align="left">Result-oriented web developer with expertise in HTML,CSS, and javascript, specializing in creating visually apeealing and user-friendly websites. Strong problem-solving skills, effective collaboration abilities, and a commitment to staying updated with the latest web development trends. Proven track record of delivering high-quality projects on time. Passionate about continuoud learning and adapting to new technologies.</p>
+
+###
+
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -24,6 +31,10 @@
 
 ###
 
+<h2 align="left">Connect with me</h2>
+
+###
+
 <div align="left">
   <a href="https://instagram.com/upasna_ratani?utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -32,5 +43,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src=""  />
 
 ###
